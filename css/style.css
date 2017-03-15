@@ -1,0 +1,42 @@
+body {
+	background:#1A1C28;
+}
+
+#gs_taptempo {
+	background:#222533;
+	padding:10px;
+	max-width:200px;
+}
+
+#gs_taptempo .display {
+	background:#eee;
+	padding:20px;
+	color:#1A1C28;
+	text-align:center;
+}
+
+#gs_taptempo .avg_bpm {
+	font-size:2em;
+}
+
+#gs_taptempo .inbpm {
+	font-size:0.5em;
+	display:block;
+}
+
+
+#gs_taptempo button {
+	background:#01B3E3;
+	padding:10px;
+	color:#fff;
+	text-align:center;
+	border:none;
+	margin-top:10px;
+	cursor:pointer;
+	width:100%;
+}
+
+#gs_taptempo button:hover {
+	background:#eee;
+	color:#1A1C28;
+}
